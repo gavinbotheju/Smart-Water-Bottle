@@ -13,6 +13,7 @@ This repository consists of a mobile application developed for a smart water bot
 - View 2 hourly goal
 - View smart device battery
 - View weekly consumption and daily average
+- Send push notification if water not consumed in last 2 hours
 - Manage user profile
 
 ### Technologies 💻
