@@ -20,3 +20,5 @@ This repository consists of a mobile application developed for a smart water bot
 - Flutter
 - Dart
 - Firebase
+
+Checkout to the <b>pcb-and-enclosure</b> branch for the PCB and Enclosure design of Hydr8.
