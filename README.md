@@ -1,22 +1,16 @@
 # Hyrd8 💧
 ## Smart-Water-Bottle
 
-This repository consists of a mobile application developed for a smart water bottle. The bottle was designed such that periodically measured readings are sent to a real-time database, and data is retrieved to the Hydr8 mobile app for viewing and analysis.
+### PCB and SolidWorks Design Branch
 
-<img src="https://github.com/gavinbotheju/Smart-Water-Bottle/assets/140232759/57d11230-a8ae-4a99-b30d-498b89c85146" width="180"/>
-<img src="https://github.com/gavinbotheju/Smart-Water-Bottle/assets/140232759/39338f4e-d217-4ae4-a300-31cc21a71748" width="180"/>
-<img src=https://github.com/gavinbotheju/Smart-Water-Bottle/assets/140232759/92376de5-4540-45b1-9c55-4f1206cb8bec" width="180"/>
+In this branch, you'll find the following:
 
-### Functions 📃
-- Set daily goal
-- View daily consumption
-- View 2 hourly goal
-- View smart device battery
-- View weekly consumption and daily average
-- Send push notification if water not consumed in last 2 hours
-- Manage user profile
+- <b>PCB Design:</b> Includes the design of the electronic circuit used for Hydr8, where the PCB is meticulously crafted to ensure seamless communication between sensors and the database.
+
+- <b>SolidWorks Design:</b> Consists of the 3D design files, showcasing the physical structure and aesthetics of the Hydr8 smart water bottle.
+
+<img src="https://github.com/gavinbotheju/Smart-Water-Bottle/assets/140232759/6bbb5dd4-8b08-4890-a30b-36c7095c583b" width="200"/>
 
 ### Technologies 💻
-- Flutter
-- Dart
-- Firebase
+- <b>PCB Design:</b> Altium
+- <b>Enclosure:</b> Solidworks
